@@ -430,5 +430,14 @@
         "description": "Rust HTTP template",
         "repo": "https://github.com/openfaas-incubator/rust-http-template",
         "official": "true"
+    },
+    {
+        "template": "nestjs-http",
+        "platform": "x86_64",
+        "language": "Nodejs",
+        "source": "cxagroup",
+        "description": "nestjs-http",
+        "repo": "https://github.com/cuongphamcxa/nestjs-serverless-template",
+        "official": "false"
     }
 ]
