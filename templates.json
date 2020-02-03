@@ -432,11 +432,11 @@
         "official": "true"
     },
     {
-        "template": "nestjs-http",
+        "template": "nestjs",
         "platform": "x86_64",
         "language": "Nodejs",
         "source": "cxagroup",
-        "description": "nestjs-http",
+        "description": "nestjs",
         "repo": "https://github.com/cuongphamcxa/nestjs-serverless-template",
         "official": "false"
     }
